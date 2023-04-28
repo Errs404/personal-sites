@@ -802,6 +802,7 @@ Hackathon Hackers' GitHub profiles
 - Shubham Sawant https://github.com/moghya
 - Shubhangi Misra https://github.com/ShubhangiMisra
 - Shy Ruparel https://github.com/shy
+- Sigit Prasetyo https://github.com/errs404
 - Sid Dange https://github.com/siddhantdange
 - Simeon Videnov https://github.com/simeon
 - Simon Anatole Orlovsky https://github.com/simonorlovsky
